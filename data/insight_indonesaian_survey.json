@@ -1,0 +1,2821 @@
+{
+    "1": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 33.33333333333333,
+                "Selalu": 33.33333333333333,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "2": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Ya": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 25.0,
+                "Sangat tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Sering": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 25.0,
+                "Sangat tahu": 25.0
+            }
+        }
+    },
+    "3": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Laki-laki",
+        "education": "SMA",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 33.33333333333333,
+                "Ya": 33.33333333333333,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 100.0
+            }
+        }
+    },
+    "4": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Laki-laki",
+        "education": "SMA",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 100.0
+            }
+        }
+    },
+    "5": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 33.33333333333333,
+                "Selalu": 33.33333333333333,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "6": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "7": {
+        "language": "minangkabau",
+        "origin": "Sumatera Barat (Ibu Kota Padang)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 75.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Tidak pernah": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 75.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 75.0,
+                "Sangat tahu": 25.0
+            }
+        }
+    },
+    "8": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 88.88888888888889,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 11.11111111111111
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 77.77777777777779,
+                "Ya": 22.22222222222222
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 55.55555555555556,
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 11.11111111111111
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 77.77777777777779,
+                "Tidak pernah": 22.22222222222222
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 55.55555555555556,
+                "Selalu": 22.22222222222222,
+                "Jarang": 22.22222222222222
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 44.44444444444444,
+                "Tidak terlalu tahu": 22.22222222222222,
+                "Cukup Tahu": 22.22222222222222,
+                "Tidak Tahu": 11.11111111111111
+            }
+        }
+    },
+    "9": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 50.0,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 75.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 75.0,
+                "Tidak pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Selalu": 75.0,
+                "Sering": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            }
+        }
+    },
+    "10": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 83.33333333333334,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 16.666666666666664
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 33.33333333333333,
+                "Ya": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Sering": 33.33333333333333,
+                "Selalu": 16.666666666666664
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 16.666666666666664
+            }
+        }
+    },
+    "11": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 57.14285714285714,
+                "Tidak tahu": 28.57142857142857,
+                "Ya": 14.285714285714285
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 42.857142857142854,
+                "Tidak Tahu": 28.57142857142857,
+                "Cukup Tahu": 28.57142857142857
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 57.14285714285714,
+                "Pernah": 42.857142857142854
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 42.857142857142854,
+                "Sering": 28.57142857142857,
+                "Selalu": 28.57142857142857
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 42.857142857142854,
+                "Sangat tahu": 42.857142857142854,
+                "Tidak terlalu tahu": 14.285714285714285
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 42.857142857142854,
+                "Cukup Tahu": 28.57142857142857,
+                "Tidak Tahu": 14.285714285714285,
+                "Sangat tahu": 14.285714285714285
+            }
+        }
+    },
+    "12": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 80.0,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 20.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 60.0,
+                "Tidak": 40.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 40.0,
+                "Cukup Tahu": 40.0,
+                "Tidak terlalu tahu": 20.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 40.0,
+                "Tidak pernah": 20.0,
+                "Sering": 20.0,
+                "Selalu": 20.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 80.0,
+                "Tidak terlalu tahu": 20.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 60.0,
+                "Tidak Tahu": 20.0,
+                "Sangat tahu": 20.0
+            }
+        }
+    },
+    "13": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 88.88888888888889,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 11.11111111111111
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 77.77777777777779,
+                "Tidak": 11.11111111111111,
+                "Ya": 11.11111111111111
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 22.22222222222222,
+                "Sangat tahu": 11.11111111111111
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Selalu": 22.22222222222222,
+                "Sering": 11.11111111111111
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 55.55555555555556,
+                "Sangat tahu": 22.22222222222222,
+                "Tidak terlalu tahu": 11.11111111111111,
+                "Tidak Tahu": 11.11111111111111
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 44.44444444444444,
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 22.22222222222222
+            }
+        }
+    },
+    "14": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S3",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Selalu": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "15": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 30.0,
+                "Ya": 20.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 60.0,
+                "Tidak terlalu tahu": 20.0,
+                "Tidak Tahu": 10.0,
+                "Sangat tahu": 10.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 80.0,
+                "Pernah": 20.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 50.0,
+                "Selalu": 30.0,
+                "Jarang": 10.0,
+                "Tidak pernah": 10.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 70.0,
+                "Cukup Tahu": 30.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 20.0,
+                "Sangat tahu": 20.0,
+                "Tidak Tahu": 10.0
+            }
+        }
+    },
+    "16": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "50-59 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Tidak": 33.33333333333333,
+                "Ya": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 16.666666666666664,
+                "Cukup Tahu": 16.666666666666664
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 83.33333333333334,
+                "Pernah": 16.666666666666664
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 83.33333333333334,
+                "Jarang": 16.666666666666664
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 50.0,
+                "Sangat tahu": 16.666666666666664,
+                "Cukup Tahu": 16.666666666666664,
+                "Tidak terlalu tahu": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 50.0,
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 16.666666666666664
+            }
+        }
+    },
+    "17": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 50.0,
+                "Tidak pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Selalu": 25.0,
+                "Tidak pernah": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 50.0
+            }
+        }
+    },
+    "18": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 12.5,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 12.5
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 62.5,
+                "Tidak tahu": 25.0,
+                "Ya": 12.5
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 37.5,
+                "Cukup Tahu": 37.5,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 75.0,
+                "Pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Sering": 25.0,
+                "Selalu": 12.5,
+                "Tidak pernah": 12.5
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 62.5,
+                "Cukup Tahu": 37.5
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 37.5,
+                "Sangat tahu": 25.0,
+                "Tidak terlalu tahu": 25.0,
+                "Tidak Tahu": 12.5
+            }
+        }
+    },
+    "19": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "50-59 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "20": {
+        "language": "javanese",
+        "origin": "Jawa Timur (Ibu Kota Surabaya)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Ya": 16.666666666666664,
+                "Tidak": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 50.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 83.33333333333334,
+                "Pernah": 16.666666666666664
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Sering": 33.33333333333333,
+                "Tidak pernah": 16.666666666666664
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 16.666666666666664,
+                "Sangat tahu": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Tidak Tahu": 16.666666666666664
+            }
+        }
+    },
+    "21": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 46.15384615384615,
+                "Tidak tahu": 38.46153846153847,
+                "Tidak": 15.384615384615385
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 30.76923076923077,
+                "Tidak Tahu": 30.76923076923077,
+                "Sangat tahu": 23.076923076923077,
+                "Tidak terlalu tahu": 15.384615384615385
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 69.23076923076923,
+                "Pernah": 30.76923076923077
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 53.84615384615385,
+                "Jarang": 38.46153846153847,
+                "Tidak pernah": 7.6923076923076925
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 53.84615384615385,
+                "Sangat tahu": 38.46153846153847,
+                "Tidak terlalu tahu": 7.6923076923076925
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 30.76923076923077,
+                "Cukup Tahu": 23.076923076923077,
+                "Tidak terlalu tahu": 23.076923076923077,
+                "Tidak Tahu": 23.076923076923077
+            }
+        }
+    },
+    "22": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 75.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Sangat tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 75.0,
+                "Tidak pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Selalu": 50.0,
+                "Jarang": 25.0,
+                "Sering": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 75.0,
+                "Sangat tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Sangat tahu": 25.0
+            }
+        }
+    },
+    "23": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Ya": 25.0,
+                "Tidak tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 50.0,
+                "Tidak pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 50.0,
+                "Jarang": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            }
+        }
+    },
+    "24": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 16.666666666666664,
+                "Ya": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Jarang": 16.666666666666664,
+                "Selalu": 16.666666666666664
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 83.33333333333334,
+                "Cukup Tahu": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 16.666666666666664,
+                "Tidak Tahu": 16.666666666666664
+            }
+        }
+    },
+    "25": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Laki-laki",
+        "education": "SMA",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Tidak": 25.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 50.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 75.0,
+                "Tidak pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Sering": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Sangat tahu": 25.0
+            }
+        }
+    },
+    "26": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 42.857142857142854,
+                "Tidak tahu": 28.57142857142857,
+                "Ya": 28.57142857142857
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 71.42857142857143,
+                "Tidak Tahu": 14.285714285714285,
+                "Tidak terlalu tahu": 14.285714285714285
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 71.42857142857143,
+                "Pernah": 28.57142857142857
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 42.857142857142854,
+                "Sering": 42.857142857142854,
+                "Jarang": 14.285714285714285
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 57.14285714285714,
+                "Sangat tahu": 28.57142857142857,
+                "Tidak terlalu tahu": 14.285714285714285
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 42.857142857142854,
+                "Tidak Tahu": 28.57142857142857,
+                "Cukup Tahu": 14.285714285714285,
+                "Sangat tahu": 14.285714285714285
+            }
+        }
+    },
+    "27": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 60.0,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 40.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 40.0,
+                "Tidak tahu": 40.0,
+                "Ya": 20.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 60.0,
+                "Sangat tahu": 40.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 60.0,
+                "Pernah": 40.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 60.0,
+                "Tidak pernah": 20.0,
+                "Jarang": 20.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 40.0,
+                "Sangat tahu": 40.0,
+                "Tidak terlalu tahu": 20.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 40.0,
+                "Sangat tahu": 20.0,
+                "Tidak Tahu": 20.0,
+                "Tidak terlalu tahu": 20.0
+            }
+        }
+    },
+    "28": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 80.0,
+                "Tidak": 20.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 60.0,
+                "Tidak terlalu tahu": 40.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 60.0,
+                "Pernah": 40.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 100.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 40.0,
+                "Cukup Tahu": 40.0,
+                "Tidak Tahu": 20.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 40.0,
+                "Cukup Tahu": 40.0,
+                "Sangat tahu": 20.0
+            }
+        }
+    },
+    "29": {
+        "language": "javanese",
+        "origin": "Jawa Tengah (Ibu Kota Semarang)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 80.0,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 20.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 80.0,
+                "Ya": 20.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 60.0,
+                "Sangat tahu": 40.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 60.0,
+                "Pernah": 40.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 60.0,
+                "Jarang": 40.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 60.0,
+                "Sangat tahu": 40.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 40.0,
+                "Sangat tahu": 20.0,
+                "Cukup Tahu": 20.0,
+                "Tidak Tahu": 20.0
+            }
+        }
+    },
+    "30": {
+        "language": "javanese",
+        "origin": "Daerah Istimewa Yogyakarta (Ibu Kota Yogyakarta)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Ya": 25.0,
+                "Tidak tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 75.0,
+                "Sangat tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 50.0,
+                "Tidak pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 50.0,
+                "Jarang": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 75.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Sangat tahu": 25.0
+            }
+        }
+    },
+    "31": {
+        "language": "javanese",
+        "origin": "Daerah Istimewa Yogyakarta (Ibu Kota Yogyakarta)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Selalu": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 100.0
+            }
+        }
+    },
+    "32": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 75.0,
+                "Tidak": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 75.0,
+                "Cukup Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 75.0,
+                "Pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Selalu": 50.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak Tahu": 25.0
+            }
+        }
+    },
+    "33": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Ya": 25.0,
+                "Tidak": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 50.0,
+                "Tidak terlalu tahu": 50.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 75.0,
+                "Pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 50.0,
+                "Tidak pernah": 25.0,
+                "Sering": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            }
+        }
+    },
+    "34": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "35": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak Tahu": 50.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Sering": 25.0,
+                "Jarang": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 75.0,
+                "Tidak Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            }
+        }
+    },
+    "36": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Tidak": 40.0,
+                "Ya": 10.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 50.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 60.0,
+                "Tidak pernah": 40.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 40.0,
+                "Sering": 40.0,
+                "Tidak pernah": 10.0,
+                "Selalu": 10.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 80.0,
+                "Sangat tahu": 20.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 30.0,
+                "Cukup Tahu": 30.0,
+                "Sangat tahu": 20.0,
+                "Tidak Tahu": 20.0
+            }
+        }
+    },
+    "37": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Ya": 25.0,
+                "Tidak": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 25.0,
+                "Cukup Tahu": 25.0,
+                "Sangat tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 75.0,
+                "Pernah": 25.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 75.0,
+                "Sering": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 50.0
+            }
+        }
+    },
+    "38": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 88.88888888888889,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 11.11111111111111
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 33.33333333333333,
+                "Tidak": 33.33333333333333,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 55.55555555555556,
+                "Sangat tahu": 22.22222222222222,
+                "Tidak Tahu": 22.22222222222222
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 88.88888888888889,
+                "Pernah": 11.11111111111111
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 44.44444444444444,
+                "Jarang": 33.33333333333333,
+                "Tidak pernah": 22.22222222222222
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 33.33333333333333,
+                "Sangat tahu": 22.22222222222222,
+                "Cukup Tahu": 22.22222222222222,
+                "Tidak terlalu tahu": 22.22222222222222
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Tidak Tahu": 22.22222222222222,
+                "Sangat tahu": 11.11111111111111
+            }
+        }
+    },
+    "39": {
+        "language": "bugis",
+        "origin": "Sulawesi Selatan (Ibu Kota Makassar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Tidak": 25.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Jarang": 25.0,
+                "Selalu": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak Tahu": 25.0
+            }
+        }
+    },
+    "40": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 87.5,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 12.5
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 75.0,
+                "Tidak tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 37.5,
+                "Cukup Tahu": 37.5,
+                "Sangat tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 50.0,
+                "Selalu": 37.5,
+                "Jarang": 12.5
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 75.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 37.5,
+                "Sangat tahu": 37.5,
+                "Tidak Tahu": 12.5,
+                "Tidak terlalu tahu": 12.5
+            }
+        }
+    },
+    "41": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333
+            }
+        }
+    },
+    "42": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 8.333333333333332
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 41.66666666666667,
+                "Ya": 8.333333333333332
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 16.666666666666664,
+                "Sangat tahu": 16.666666666666664
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 58.333333333333336,
+                "Pernah": 41.66666666666667
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 41.66666666666667,
+                "Sering": 33.33333333333333,
+                "Selalu": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 41.66666666666667,
+                "Tidak terlalu tahu": 25.0,
+                "Tidak Tahu": 16.666666666666664,
+                "Sangat tahu": 16.666666666666664
+            }
+        }
+    },
+    "43": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 60.0,
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 40.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 60.0,
+                "Tidak tahu": 40.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 40.0,
+                "Cukup Tahu": 40.0,
+                "Sangat tahu": 20.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 60.0,
+                "Pernah": 40.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 60.0,
+                "Jarang": 20.0,
+                "Selalu": 20.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 60.0,
+                "Cukup Tahu": 40.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 80.0,
+                "Sangat tahu": 20.0
+            }
+        }
+    },
+    "44": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "50-59 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "45": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Selalu": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "46": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "SMA",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "47": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Laki-laki",
+        "education": "SMA",
+        "age": "<19 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333,
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333,
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "48": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 90.0,
+                "Ya": 10.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak terlalu tahu": 30.0,
+                "Sangat tahu": 20.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 70.0,
+                "Pernah": 30.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 30.0,
+                "Sering": 30.0,
+                "Selalu": 30.0,
+                "Jarang": 10.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 60.0,
+                "Tidak terlalu tahu": 20.0,
+                "Cukup Tahu": 20.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 50.0,
+                "Tidak Tahu": 30.0,
+                "Tidak terlalu tahu": 10.0,
+                "Sangat tahu": 10.0
+            }
+        }
+    },
+    "49": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 100.0
+            }
+        }
+    },
+    "50": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Selalu": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "51": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 45.45454545454545,
+                "Ya": 36.36363636363637,
+                "Tidak": 18.181818181818183
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 36.36363636363637,
+                "Tidak terlalu tahu": 36.36363636363637,
+                "Cukup Tahu": 18.181818181818183,
+                "Sangat tahu": 9.090909090909092
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 72.72727272727273,
+                "Pernah": 27.27272727272727
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 36.36363636363637,
+                "Jarang": 36.36363636363637,
+                "Sering": 27.27272727272727
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 63.63636363636363,
+                "Tidak Tahu": 18.181818181818183,
+                "Sangat tahu": 18.181818181818183
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 45.45454545454545,
+                "Cukup Tahu": 36.36363636363637,
+                "Tidak Tahu": 18.181818181818183
+            }
+        }
+    },
+    "52": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 28.57142857142857,
+                "Ya": 21.428571428571427
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 64.28571428571429,
+                "Tidak Tahu": 14.285714285714285,
+                "Tidak terlalu tahu": 14.285714285714285,
+                "Sangat tahu": 7.142857142857142
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 64.28571428571429,
+                "Pernah": 35.714285714285715
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 42.857142857142854,
+                "Jarang": 28.57142857142857,
+                "Selalu": 21.428571428571427,
+                "Tidak pernah": 7.142857142857142
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 57.14285714285714,
+                "Cukup Tahu": 35.714285714285715,
+                "Tidak terlalu tahu": 7.142857142857142
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 57.14285714285714,
+                "Sangat tahu": 14.285714285714285,
+                "Tidak Tahu": 14.285714285714285,
+                "Tidak terlalu tahu": 14.285714285714285
+            }
+        }
+    },
+    "53": {
+        "language": "sunda",
+        "origin": "Jawa Barat (Ibu Kota Bandung)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 33.33333333333333,
+                "Sering": 33.33333333333333,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 100.0
+            }
+        }
+    },
+    "54": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 50.0,
+                "Tidak": 25.0,
+                "Ya": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Sangat tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Pernah": 50.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 25.0,
+                "Sering": 25.0,
+                "Selalu": 25.0,
+                "Jarang": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 75.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Cukup Tahu": 25.0
+            }
+        }
+    },
+    "55": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 33.33333333333333,
+                "Ya": 33.33333333333333,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Selalu": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "56": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Ya": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 75.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 75.0,
+                "Sering": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Tidak Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 50.0,
+                "Cukup Tahu": 25.0,
+                "Tidak Tahu": 25.0
+            }
+        }
+    },
+    "57": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 66.66666666666666,
+                "Tidak tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 33.33333333333333,
+                "Selalu": 33.33333333333333,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "58": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 33.33333333333333,
+                "Tidak tahu": 33.33333333333333,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "59": {
+        "language": "bali",
+        "origin": "Bali (Ibu Kota Denpasar)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Ya": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak Tahu": 25.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 50.0,
+                "Selalu": 25.0,
+                "Jarang": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Cukup Tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 50.0,
+                "Sangat tahu": 25.0,
+                "Cukup Tahu": 25.0
+            }
+        }
+    },
+    "60": {
+        "language": "chinese, hakka",
+        "origin": "Sumatera Utara (Ibu Kota Medan)",
+        "gender": "Perempuan",
+        "education": "SMA",
+        "age": "40-49 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 50.0,
+                "Tidak tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 75.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 75.0,
+                "Tidak terlalu tahu": 25.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 75.0,
+                "Cukup Tahu": 25.0
+            }
+        }
+    },
+    "61": {
+        "language": "sasak",
+        "origin": "Nusa Tenggara Barat (Ibu Kota Mataram)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 100.0
+            }
+        }
+    },
+    "62": {
+        "language": "sasak",
+        "origin": "Nusa Tenggara Barat (Ibu Kota Mataram)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 100.0
+            }
+        }
+    },
+    "63": {
+        "language": "sasak",
+        "origin": "Nusa Tenggara Barat (Ibu Kota Mataram)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 33.33333333333333,
+                "Jarang": 33.33333333333333,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "64": {
+        "language": "aceh",
+        "origin": "Nanggroe Aceh Darussalam (Ibu Kota Banda Aceh)",
+        "gender": "Laki-laki",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 33.33333333333333,
+                "Selalu": 33.33333333333333,
+                "Sering": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            }
+        }
+    },
+    "65": {
+        "language": "aceh",
+        "origin": "Nanggroe Aceh Darussalam (Ibu Kota Banda Aceh)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333
+            }
+        }
+    },
+    "66": {
+        "language": "aceh",
+        "origin": "Nanggroe Aceh Darussalam (Ibu Kota Banda Aceh)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 83.33333333333334,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 16.666666666666664
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 50.0,
+                "Tidak tahu": 33.33333333333333,
+                "Ya": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 50.0,
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 16.666666666666664
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 50.0,
+                "Selalu": 33.33333333333333,
+                "Jarang": 16.666666666666664
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 50.0,
+                "Tidak terlalu tahu": 16.666666666666664,
+                "Cukup Tahu": 16.666666666666664,
+                "Tidak Tahu": 16.666666666666664
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 16.666666666666664,
+                "Cukup Tahu": 16.666666666666664
+            }
+        }
+    },
+    "67": {
+        "language": "aceh",
+        "origin": "Nanggroe Aceh Darussalam (Ibu Kota Banda Aceh)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 88.88888888888889,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 11.11111111111111
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 66.66666666666666,
+                "Tidak tahu": 22.22222222222222,
+                "Ya": 11.11111111111111
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 44.44444444444444,
+                "Tidak Tahu": 33.33333333333333,
+                "Cukup Tahu": 22.22222222222222
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 44.44444444444444,
+                "Jarang": 22.22222222222222,
+                "Sering": 22.22222222222222,
+                "Selalu": 11.11111111111111
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Sangat tahu": 22.22222222222222,
+                "Cukup Tahu": 22.22222222222222,
+                "Tidak Tahu": 22.22222222222222
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 55.55555555555556,
+                "Tidak Tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 11.11111111111111
+            }
+        }
+    },
+    "68": {
+        "language": "malay",
+        "origin": "Kalimantan Barat (Ibu Kota Pontianak)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 33.33333333333333,
+                "Sangat tahu": 33.33333333333333,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 66.66666666666666,
+                "Tidak terlalu tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "69": {
+        "language": "hawu",
+        "origin": "Nusa Tenggara Timur (Ibu Kota Kupang)",
+        "gender": "Perempuan",
+        "education": "S2",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak": 100.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Pernah": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    },
+    "70": {
+        "language": "hawu",
+        "origin": "Nusa Tenggara Timur (Ibu Kota Kupang)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 100.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 33.33333333333333,
+                "Tidak": 33.33333333333333,
+                "Ya": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Jarang": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 33.33333333333333,
+                "Cukup Tahu": 33.33333333333333,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "71": {
+        "language": "malay, jambi",
+        "origin": "Jambi (Ibu Kota Jambi)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "20-29 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 75.0,
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 25.0
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 75.0,
+                "Tidak": 25.0
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Cukup Tahu": 100.0
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 100.0
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 75.0,
+                "Tidak pernah": 25.0
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Sangat tahu": 50.0,
+                "Cukup Tahu": 50.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Cukup Tahu": 75.0,
+                "Tidak terlalu tahu": 25.0
+            }
+        }
+    },
+    "72": {
+        "language": "malay, jambi",
+        "origin": "Jambi (Ibu Kota Jambi)",
+        "gender": "Perempuan",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333,
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 33.33333333333333,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Tidak tahu": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak Tahu": 66.66666666666666,
+                "Sangat tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Sering": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Tidak Tahu": 33.33333333333333
+            }
+        }
+    },
+    "73": {
+        "language": "tolaki",
+        "origin": "Sulawesi Tenggara (Ibu Kota Kendari)",
+        "gender": "Laki-laki",
+        "education": "S1",
+        "age": "30-39 tahun",
+        "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": {
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik": 66.66666666666666,
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah": 33.33333333333333
+            },
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": {
+                "Ya": 66.66666666666666,
+                "Tidak": 33.33333333333333
+            },
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            },
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": {
+                "Tidak pernah": 66.66666666666666,
+                "Pernah": 33.33333333333333
+            },
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": {
+                "Jarang": 66.66666666666666,
+                "Tidak pernah": 33.33333333333333
+            },
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": {
+                "Tidak terlalu tahu": 100.0
+            },
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": {
+                "Tidak terlalu tahu": 66.66666666666666,
+                "Cukup Tahu": 33.33333333333333
+            }
+        }
+    }
+}
