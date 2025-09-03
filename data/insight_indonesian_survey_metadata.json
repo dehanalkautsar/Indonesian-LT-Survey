@@ -1,0 +1,43 @@
+{
+    "questions": {
+            "Untuk mengembangkan teknologi bahasa daerah, diperlukan banyak data teks dan audio digital dalam bahasa tersebut.\r\nSebagai contoh, peneliti mungkin akan mengumpulkan dan menganalisis data teks dan audio yang tersedia secara publik di media sosial Anda yang menggunakan bahasa daerah.\r\nApakah hal ini membuat Anda merasa terganggu?": [
+                "Saya merasa terganggu jika data teks tersebut digunakan untuk pengembangan teknologi bahasa daerah",
+                "Saya merasa terganggu jika data audio tersebut digunakan untuk pengembangan teknologi bahasa daerah",
+                "Saya merasa terganggu jika data teks dan audio tersebut digunakan untuk pengembangan teknologi bahasa daerah",
+                "Saya tidak merasa terganggu karena data tersebut tersedia secara publik"
+            ],
+            "Apakah Anda merasa teknologi kecerdasan buatan yang sudah ada memberikan perlindungan terhadap data pribadi Anda secara memadai?": [
+                "Ya",
+                "Tidak",
+                "Tidak tahu"
+            ],
+            "Saat menggunakan teknologi bahasa seperti Google Search, Siri, dan Google Assistant, apakah Anda sudah pernah mendengar tentang isu privasi dan keamanan? Misalnya, tidak menyebutkan atau menuliskan data pribadi ke asisten digital seperti ChatGPT?": [
+                "Sangat tahu",
+                "Cukup Tahu",
+                "Tidak terlalu tahu",
+                "Tidak Tahu"
+            ],
+            "Apakah Anda pernah menanyakan masalah kesehatan kepada asisten digital seperti ChatGPT?": [
+                "Pernah",
+                "Tidak pernah"
+            ],
+            "Seberapa sering Anda melakukan verifikasi kebeneran informasi yang diberikan oleh teknologi bahasa seperti ChatGPT?": [
+                "Selalu",
+                "Sering",
+                "Jarang",
+                "Tidak pernah"
+            ],
+            "Apakah Anda tahu bahwa informasi yang diberikan oleh asisten digital seperti ChatGPT tidak selalu benar dan bisa sepenuhnya salah?": [
+                "Sangat tahu",
+                "Cukup Tahu",
+                "Tidak terlalu tahu",
+                "Tidak Tahu"
+            ],
+            "Saat menggunakan teknologi bahasa, apakah Anda sudah pernah mendengar tentang isu bias? Misalnya:\r\n\r\n(1) Bias terhadap gender: komputer mengasumsikan bahwa dokter adalah laki-laki dan perawat adalah perempuan. Padahal terdapat dokter perempuan dan perawat laki-laki.\r\n(2) Bias terhadap agama/politik: komputer mencerminkan prasangka terhadap agama/politik tertentu sehingga menyudutkan kalangan tertentu.": [
+                "Sangat tahu",
+                "Cukup Tahu",
+                "Tidak terlalu tahu",
+                "Tidak Tahu"
+            ]
+        }
+}
