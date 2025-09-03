@@ -36,7 +36,3 @@ If you use this data in your research, please cite our paper:
       url={https://arxiv.org/abs/2506.07506}, 
 }
 ```
-
----
-
-**Note**: This repository is actively maintained. For the latest updates and additional resources, please check back regularly.
